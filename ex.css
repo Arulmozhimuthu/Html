@@ -1,0 +1,26 @@
+body{
+
+    color:black;
+    font-family:Arial black;
+}
+
+h1 {
+  text-align:center;
+  background-color:green;
+
+    
+}
+h2 {
+    background-color:pink;
+text-align:center;
+
+  }
+.class1
+{
+color:brown;
+
+}
+#id1
+{
+font-size:200%;
+}
